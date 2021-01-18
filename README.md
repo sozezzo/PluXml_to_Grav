@@ -16,7 +16,7 @@ I used :
  <https://www.pluxml.org>
 
 * Grav 1.6.31\
- <https://getgrav.org/>\
+ <https://getgrav.org/>
 
 The code is not clean, there is some dead code, unused variables and missing comments.
 

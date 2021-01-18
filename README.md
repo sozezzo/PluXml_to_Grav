@@ -1,4 +1,5 @@
-# PluXml_to_Grav
+# PluXml to Grav
+
 Powershell to convert PluXml posts to Markdown/Grav
 
 I used :

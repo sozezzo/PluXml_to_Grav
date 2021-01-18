@@ -1,7 +1,7 @@
-# PluXml_to_Grav\
+# PluXml_to_Grav
 Powershell to convert PluXml posts to Markdown/Grav
 
-I used :\
+I used :
 
 * PowerShell 7.1.0 (x64)\
  <https://docs.microsoft.com/en-us/powershell/scripting/whats-new/what-s-new-in-powershell-70?view=powershell-7.1>
